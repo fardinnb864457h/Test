@@ -1,3 +1,0 @@
-<?php 
-echo("#EXTM3U #EXT-X-VERSION:3 #EXT-X-TARGETDURATION:25 #EXT-X-MEDIA-SEQUENCE:0 #EXTINF:25.000000, /sourcefail/index0.ts #EXTINF:13.900000, /sourcefail/index1.ts #EXT-X-ENDLIST")
-?>
